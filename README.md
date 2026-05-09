@@ -7,17 +7,20 @@
 
 ---
 
-# 🎵 Spotify Playing
+<div align="center">
 
-<p align="center">
-  <a href="https://open.spotify.com/track/4PTG3Z6ehGkBFwjybzWkR8">
-    <img src="https://novatorem.vercel.app/api/spotify" />
-  </a>
-</p>
+## 🎧 Now Playing
 
-<p align="center">
-🎶 Currently vibing to <b>About You - The 1975</b>
-</p>
+<img src="https://i.scdn.co/image/ab67616d0000b273d8f8b3f4f4b2db4f6d4b6c5d" width="250" style="border-radius:20px;" />
+
+### About You
+#### The 1975
+
+─────────────── ⚪ ───────────────
+
+▶️ 3:48 / 5:26
+
+</div>
 
 ---
 
