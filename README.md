@@ -10,13 +10,13 @@
 # 🎵 Spotify Playing
 
 <p align="center">
-  <a href="https://open.spotify.com/track/3T03rPwlL8NVk1yIaxeD8U">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31p2wx6n6m5j5v7m4v4e4s4wzq5a&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" />
+  <a href="https://open.spotify.com/track/4PTG3Z6ehGkBFwjybzWkR8">
+    <img src="https://novatorem.vercel.app/api/spotify" />
   </a>
 </p>
 
 <p align="center">
-🎶 Currently vibing to <b>About You</b>
+🎶 Currently vibing to <b>About You - The 1975</b>
 </p>
 
 ---
